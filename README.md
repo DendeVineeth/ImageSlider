@@ -40,8 +40,5 @@ Zip all project files, including HTML, CSS, and JavaScript, and submit the compr
 
 ## Credits
 
-- Project developed by [Your Name]
-- Email: [Your Email]
-- Website: [Your Website]
-
-Good luck with your project, and have fun creating an interactive image slider!
+- Project developed by [Dende Vineeth]
+- Email: [vineethdende024@gmail.com]
